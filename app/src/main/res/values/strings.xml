@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shklov</string>
+    <string name="textview">TextView</string>
+    <string name="temperature">%1$s °C</string>
+</resources>
